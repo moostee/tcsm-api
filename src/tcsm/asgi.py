@@ -1,5 +1,5 @@
 """
-ASGI config for tscmAPI project.
+ASGI config for tcsm project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
